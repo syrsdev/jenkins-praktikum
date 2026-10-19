@@ -3,7 +3,7 @@
        stages {
            stage('Hello') {
                steps {
-                   echo 'My Jenkins Pipeline'
+                   echo 'My Jenkins Pipeline V2'
                }
            }
        }
